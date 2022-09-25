@@ -13,12 +13,12 @@ const About = () => {
       <div className="flex flex-col-reverse sm:flex-row mx-10 gap-2 justify-center">
         <div className="mt-4 sm:mt-0 mx-4">
           {[
-            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat veritatis at voluptate commodi officiis sapiente.",
-            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat veritatis at voluptate commodi officiis sapiente.",
-            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat veritatis at voluptate commodi officiis sapiente.",
-            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat veritatis at voluptate commodi officiis sapiente.",
-            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat veritatis at voluptate commodi officiis sapiente.",
-            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat veritatis at voluptate commodi officiis sapiente.",
+            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat veritatis  voluptate commodi officiis sapiente.",
+            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat veritatis  voluptate commodi officiis sapiente.",
+            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat veritatis  voluptate commodi officiis sapiente.",
+            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat veritatis  voluptate commodi officiis sapiente.",
+            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat veritatis  voluptate commodi officiis sapiente.",
+            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat veritatis  voluptate commodi officiis sapiente.",
           ].map((item, idx) => (
             <p key={idx} className="p-2">
               {item}
