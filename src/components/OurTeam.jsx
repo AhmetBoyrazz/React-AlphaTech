@@ -20,12 +20,11 @@ const OurTeam = () => {
         <OurTeamCart
           image="https://ca.slack-edge.com/T03LBL87DA8-U03RGMLSW1L-e6bd17d33a8b-512"
           name="Mustafa Başar"
-          link="https://www.mustafabasar.dev"
         />
         <OurTeamCart
           image="https://ca.slack-edge.com/T03LBL87DA8-U03KULWRB9D-5b17324fe99c-512"
-          name="Harvey Watson"
-          talent="Mobile Developer"
+          name="Mustafa Başar"
+          talent="Front-end Developer"
         />
       </div>
     </div>
