@@ -18,12 +18,12 @@ const OurTeam = () => {
           talent="Back-end Developer"
         />
         <OurTeamCart
-          image=""
-          name="Ahmet Boyraz"
-        />
-        <OurTeamCart
           image="https://ca.slack-edge.com/T03LBL87DA8-U03RGMLSW1L-e6bd17d33a8b-512"
           name="Mustafa Başar"
+        />
+        <OurTeamCart
+          image="https://media.discordapp.net/attachments/776835556776476700/1023674444713037894/myAvatar_4.png?width=676&height=676"
+          name="Ahmet Boyraz"
           talent="Front-end Developer"
         />
       </div>
