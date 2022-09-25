@@ -18,11 +18,11 @@ const OurTeam = () => {
           talent="Back-end Developer"
         />
         <OurTeamCart
-          image="https://ca.slack-edge.com/T03LBL87DA8-U03RGMLSW1L-e6bd17d33a8b-512"
-          name="Mustafa Başar"
+          image=""
+          name="Ahmet Boyraz"
         />
         <OurTeamCart
-          image="https://ca.slack-edge.com/T03LBL87DA8-U03KULWRB9D-5b17324fe99c-512"
+          image="https://ca.slack-edge.com/T03LBL87DA8-U03RGMLSW1L-e6bd17d33a8b-512"
           name="Mustafa Başar"
           talent="Front-end Developer"
         />
